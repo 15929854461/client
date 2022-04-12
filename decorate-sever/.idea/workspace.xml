@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5be89fe1-059d-4e77-b6b5-1aba4b1b62a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26EqieJUywq1R4RZVnBadYasJ1p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.26" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\小组项目\decorate-sever" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be89fe1-059d-4e77-b6b5-1aba4b1b62a0" name="Default Changelist" comment="" />
+      <created>1646999222544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646999222544</updated>
+      <workItem from="1646999224220" duration="5648000" />
+      <workItem from="1647010182616" duration="2299000" />
+      <workItem from="1647017193003" duration="834000" />
+      <workItem from="1647049202027" duration="757000" />
+      <workItem from="1647173481829" duration="3012000" />
+      <workItem from="1647348764505" duration="5045000" />
+      <workItem from="1647357660252" duration="594000" />
+      <workItem from="1647595061369" duration="4891000" />
+      <workItem from="1647602624190" duration="92000" />
+      <workItem from="1647603068596" duration="1628000" />
+      <workItem from="1647605523345" duration="3013000" />
+      <workItem from="1647672753923" duration="2355000" />
+      <workItem from="1647740527492" duration="49000" />
+      <workItem from="1647845235092" duration="4064000" />
+      <workItem from="1648346178975" duration="1987000" />
+      <workItem from="1648373287107" duration="1756000" />
+      <workItem from="1648426471034" duration="3662000" />
+      <workItem from="1648564249127" duration="2090000" />
+      <workItem from="1648621224088" duration="5943000" />
+      <workItem from="1648903502083" duration="927000" />
+      <workItem from="1648914047259" duration="633000" />
+      <workItem from="1648995875672" duration="1329000" />
+      <workItem from="1649558467818" duration="628000" />
+      <workItem from="1649584908256" duration="4479000" />
+      <workItem from="1649684286228" duration="627000" />
+      <workItem from="1649748039853" duration="815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/events.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
